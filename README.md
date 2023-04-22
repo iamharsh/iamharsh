@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh S.
 - 👀 I’m interested in multiple things :D
-- 🌱 I’m currently learning Python & ReactJS
+- 🌱 I’m currently learning SpringBoot, microservice & ReactJS
 - 📫 You can reach me via harsh.srivastava1303@gmail.com
 
 <!---
